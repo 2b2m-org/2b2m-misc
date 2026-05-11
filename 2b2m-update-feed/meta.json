@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "requiresMpuc": 15,
+  "latestVersion": "1.2.1",
+  "versions": [
+    {
+      "id": "1.2.1",
+      "updateType": "minor",
+      "releasedAt": 1777852800000,
+      "promotions": {
+        "downloads": {
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/org-2b2m/files"
+        }
+      }
+    }
+  ]
+}
