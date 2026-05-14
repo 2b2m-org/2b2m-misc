@@ -1,0 +1,7 @@
+2b2m 1.3.0
+
+- Adds the custom FTB Quests progression book and default quest book delivery.
+- Adds GraveStone Mod configuration for shared grave looting.
+- Adds Create Big Cannons: Advanced Technologies and Create Propulsion: Simulated support.
+- Updates server defaults, keybinds, configs, and modpack metadata for the 1.3.0 client/server release.
+- Includes the CC: Tweaked 1.118.0 compatibility fix for Create 6.0.10.
