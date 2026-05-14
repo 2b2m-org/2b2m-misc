@@ -1,5 +1,3 @@
 2b2m 1.3.1
 
-- Rebuilds the 1.3.0 release as a clean patch version so clients do not install the broken 1.3.0 CurseForge file.
-- Includes CC: Tweaked 1.118.0 as the approved external Modrinth jar for Create 6.0.10 compatibility.
-- Keeps the 1.3.0 quest, GraveStone, Create Big Cannons, Create Propulsion, keybind, and server-default changes.
+- Swapped CC: Tweaked to the Modrinth version.
