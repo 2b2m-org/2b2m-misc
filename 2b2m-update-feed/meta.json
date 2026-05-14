@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "requiresMpuc": 15,
-  "latestVersion": "1.3.1",
+  "latestVersion": "1.3.2",
   "versions": [
     {
       "id": "1.2.1",
@@ -27,6 +27,16 @@
       "id": "1.3.1",
       "updateType": "patch",
       "releasedAt": 1778728724932,
+      "promotions": {
+        "downloads": {
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/org-2b2m/files"
+        }
+      }
+    },
+    {
+      "id": "1.3.2",
+      "updateType": "patch",
+      "releasedAt": 1778788668910,
       "promotions": {
         "downloads": {
           "curseforge": "https://www.curseforge.com/minecraft/modpacks/org-2b2m/files"

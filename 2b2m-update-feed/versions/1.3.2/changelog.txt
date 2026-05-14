@@ -1,0 +1,5 @@
+2b2m 1.3.2
+
+- JEI recipe screens close with Escape again.
+- Relics research is back on Left Shift.
+- Clean installs now match the live profile's Configured helper mod.

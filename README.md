@@ -30,6 +30,7 @@ Current feed files:
 - `2b2m-update-feed/versions/1.2.1/changelog.txt`
 - `2b2m-update-feed/versions/1.3.0/changelog.txt`
 - `2b2m-update-feed/versions/1.3.1/changelog.txt`
+- `2b2m-update-feed/versions/1.3.2/changelog.txt`
 
 ## Web Page
 
