@@ -1,6 +1,6 @@
 2b2m 1.3.3
 
 - Promotes the approved 1.3.3 profile to the public release track.
-- Updates the live server MOTD to `2b2m 1.3.3 - Quests, Create, Gravestones`.
+- Updates the live server MOTD to `2b2m 1.3.3 - Waystones, MineColonies, CC`.
 - Includes Create Aeronautics: Mekanism Compatibility 0.1.20 for mounted Mekanism support.
 - Keeps production server-side monitoring, Discord, RCON, voice chat, and API settings active.

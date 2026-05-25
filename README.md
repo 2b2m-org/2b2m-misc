@@ -38,7 +38,7 @@ Current feed files:
 - Address: `2b2m.org`
 - Minecraft: `1.21.1`
 - Pack: `2b2m 1.3.3`
-- MOTD: `2b2m 1.3.3 - Quests, Create, Gravestones`
+- MOTD: `2b2m 1.3.3 - Waystones, MineColonies, CC`
 
 ## Web Page
 
