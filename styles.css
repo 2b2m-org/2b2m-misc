@@ -220,6 +220,28 @@ h1 {
   border-bottom: 1px solid var(--line);
 }
 
+.server-state {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 14px;
+  display: grid;
+  gap: 6px;
+  background: var(--panel-strong);
+}
+
+.server-state span {
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 760;
+}
+
+.server-state code {
+  white-space: normal;
+  overflow-wrap: anywhere;
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+  font-size: 13px;
+}
+
 .feed-list span,
 .status-note {
   color: var(--muted);

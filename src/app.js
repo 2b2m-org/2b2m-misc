@@ -198,6 +198,8 @@ function App() {
 }
 
 function UpdateFeedPanel({ feed, feedError, latest, versionCount }) {
+  const server = feed?.server;
+
   return h(
     "article",
     { className: "panel feed-panel" },
@@ -220,6 +222,14 @@ function UpdateFeedPanel({ feed, feedError, latest, versionCount }) {
         )
       )
     ),
+    server &&
+      h(
+        "div",
+        { className: "server-state" },
+        h("strong", null, server.address),
+        h("span", null, server.minecraftVersion),
+        h("code", null, server.motd)
+      ),
     h(
       "p",
       { className: "status-note" },
